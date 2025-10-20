@@ -39,9 +39,9 @@ Saya seorang **Full Stack Developer** yang passionate dalam membangun aplikasi w
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?mdlog=mdlog&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mdlog=mdlog&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
