@@ -37,23 +37,6 @@ Saya seorang **Full Stack Developer** yang passionate dalam membangun aplikasi w
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdlog&theme=radical)
-
-## 📝 Blog Posts Terbaru
-
-<!-- BLOG-POST-LIST:START -->
-- [Judul Post 1](link-post-1)
-- [Judul Post 2](link-post-2)
-- [Judul Post 3](link-post-3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect dengan Saya
 
