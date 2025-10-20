@@ -8,7 +8,7 @@ Saya seorang **Full Stack Developer** yang passionate dalam membangun aplikasi w
 - 🌱 Sedang belajar **Kubernetes dan DevOps**
 - 👯 Terbuka untuk kolaborasi pada **proyek open source**
 - 💬 Tanya saya tentang **JavaScript, React, Node.js**
-- 📫 Hubungi saya: **email@example.com**
+- 📫 Hubungi saya: **dev@mdlabs.xyz**
 - ⚡ Fun fact: **Saya suka kopi dan coding di malam hari**
 
 ## 🛠️ Teknologi & Tools
