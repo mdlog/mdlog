@@ -1,10 +1,10 @@
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya [mdlo] 👋
 
 ## 🚀 Tentang Saya
 
 Saya seorang **Full Stack Developer** yang passionate dalam membangun aplikasi web modern dan scalable. Saya senang belajar teknologi baru dan berkontribusi pada proyek open source.
 
-- 🔭 Saat ini sedang mengerjakan **[Nama Proyek]**
+- 🔭 Saat ini sedang mengerjakan **[NECTIQ]**
 - 🌱 Sedang belajar **Kubernetes dan DevOps**
 - 👯 Terbuka untuk kolaborasi pada **proyek open source**
 - 💬 Tanya saya tentang **JavaScript, React, Node.js**
@@ -39,13 +39,13 @@ Saya seorang **Full Stack Developer** yang passionate dalam membangun aplikasi w
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?mdlog=mdlog&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mdlog=mdlog&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdlog&theme=radical)
 
 ## 📝 Blog Posts Terbaru
 
