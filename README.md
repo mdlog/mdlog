@@ -1,4 +1,4 @@
-# Halo, Saya [mdlo] 👋
+# Halo, Saya [mdlog] 👋
 
 ## 🚀 Tentang Saya
 
@@ -61,6 +61,10 @@ Saya seorang **Full Stack Developer** yang passionate dalam membangun aplikasi w
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/username)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdlog&show_icons=true&locale=en&layout=compact" alt="mdlog" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&locale=en" alt="mdlog" /></p>
 
 ---
 
