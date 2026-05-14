@@ -51,12 +51,23 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://github.com/mdlog">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&theme=default&hide_border=false&count_private=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdlog&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/mdlog">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&hide_border=false" alt="Top Languages" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/mdlog">
+    <img src="https://streak-stats.demolab.com/?user=mdlog" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 ---
 
