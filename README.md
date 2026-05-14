@@ -8,7 +8,6 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 - 🌱 Currently learning **Kubernetes and DevOps**
 - 👯 Open to collaborating on **open source projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me at: **email@example.com**
 - ⚡ Fun fact: **I love coffee and coding at night**
 
 ## 🛠️ Tech & Tools
