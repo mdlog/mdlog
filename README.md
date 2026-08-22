@@ -54,12 +54,19 @@ Smart contract auditing and bug bounty hunting, mostly DeFi.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats for mdlog" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdlog&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdlog&theme=default" alt="GitHub profile summary for mdlog" width="700" />
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdlog&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdlog&theme=default" alt="Repositories per language" width="340" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&hide_border=true" alt="Most used languages" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdlog&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdlog&theme=default" alt="Most used languages by commit" width="340" />
   </picture>
 </p>
 
