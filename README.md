@@ -1,73 +1,72 @@
-# Hi, I'm mdlog 👋
+# mdlog
 
-## 🚀 About Me
+**Web3 security · payment rails for autonomous agents**
 
-I'm a **Full Stack Developer** passionate about building modern, scalable web applications. I love learning new technologies and contributing to open source projects.
+I audit smart contracts and build the infrastructure that lets AI agents pay for what
+they use. Most of my work sits where those two meet: agent-to-agent payments over
+HTTP 402 (x402), on-chain identity and reputation (ERC-8004), and the guardrails that
+stop an autonomous system from doing something expensive and irreversible.
 
-- 🔭 Currently working on **personal projects**
-- 🌱 Currently learning **Kubernetes and DevOps**
-- 👯 Open to collaborating on **open source projects**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- ⚡ Fun fact: **I love coffee and coding at night**
-
-## 🛠️ Tech & Tools
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Others
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdlog)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mdlog)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mdlog)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mdlog">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&theme=default&hide_border=false&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mdlog">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&hide_border=false" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mdlog">
-    <img src="https://streak-stats.demolab.com/?user=mdlog" alt="GitHub Streak" />
-  </a>
-</p>
-
+39 repositories saw work in 2026, across Casper, 0G, Starknet, Midnight, BNB Chain and
+X Layer.
 
 ---
 
-⭐️ From [mdlog](https://github.com/mdlog)
+## Shipped
+
+| Project | What it does | Stack | Status |
+| :-- | :-- | :-- | :-- |
+| **[AgentGate](https://github.com/mdlog/AgentGate)** | Turns any HTTP API into a paid on-chain service in one command — HTTP 402 micropayments in CSPR, with a service registry and payment-backed reputation | Casper · Odra · TypeScript | [Live demo](https://agentgate.mdloglabs.org) · [`@mdlog/agentgate`](https://www.npmjs.com/package/@mdlog/agentgate) · Casper testnet |
+| **[AgentDock](https://github.com/mdlog/agentdock)** | Marketplace for ERC-8004 agents — find one that does a specific job, see evidence it works, hire it from your own wallet. No custody and no token approvals: every payment is an EIP-3009 authorization you sign in your browser | BNB Smart Chain · Python | [Live](https://agents.mdloglabs.org) |
+| **[ExitGuard](https://github.com/mdlog/ExitGuard)** | The seatbelt a trading agent calls before it becomes exit liquidity — answers whether it can actually *exit* at that size, returning BLOCK / WARN / OK plus an auditable depth curve, billed per call | X Layer · x402 · USDT0 · MCP | OKX.AI Agentic Service Provider |
+| **[ShadowAgents](https://github.com/mdlog/ShadowAgents)** | Private payroll — pay a whole team in one transaction without publishing the org chart: who is on it, what each person earns, or when they were paid | Starknet · STRK20 privacy pool | Mainnet |
+| **[aegis-vault](https://github.com/mdlog/aegis-vault)** | Verifiable-AI risk manager with autonomous execution guardrails | 0G Aristotle mainnet · Solidity | [Contract](https://chainscan.0g.ai/address/0x9e36520650Fd7d06CA77Fb0045456c03d3582A5F) |
+| **[eip7702-rescue](https://github.com/mdlog/eip7702-rescue)** | Claims and evacuates assets from a wallet running an attacker's EIP-7702 sweeper — atomically, in one transaction, without ever funding the compromised address | Solidity · Foundry | Recovery tool |
+| **[alibi](https://github.com/mdlog/alibi)** | Proves an agent refused an order without revealing the order, the policy, or where the policy lives | Midnight · Compact · ZK | In progress |
+
+---
+
+## Security work
+
+Smart contract auditing and bug bounty hunting, mostly DeFi.
+
+- **What I hunt** — accounting desync, invariants broken across coupled state, incomplete
+  code paths, oracle and flash-loan assumptions, signature replay, proxy and upgrade footguns
+- **How I report** — proof of concept first. If I cannot write a Foundry test that fails
+  against the vulnerable contract and passes against the patched one, it does not get submitted
+- **Where it shows up in my own code** — `eip7702-rescue` and `ExitGuard` both exist because
+  the attack came first and the tool came second
+
+---
+
+## Stack
+
+| | |
+| :-- | :-- |
+| **Contracts** | Solidity · Rust · Cairo · Compact · Odra |
+| **Application** | TypeScript · Next.js · Node · Python |
+| **Security** | Foundry · Slither · Hardhat |
+| **Chains** | Ethereum · BNB Chain · Starknet · Casper · 0G · Midnight · X Layer |
+
+---
+
+## Stats
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mdlog&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats for mdlog" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlog&layout=compact&hide_border=true" alt="Most used languages" height="165" />
+  </picture>
+</p>
+
+---
+
+## Contact
+
+Audit enquiries, agent-infrastructure work, or questions about anything above:
+
+**[dev@mdloglabs.org](mailto:dev@mdloglabs.org)**
